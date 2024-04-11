@@ -116,6 +116,12 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "cname": "router.kandorfitness.cl"
+          }
         }
       }
     }
