@@ -18,7 +18,7 @@ export class RedirectComponent implements OnInit {
       if (destino) {
         switch (destino) {
           case 'ONBOARDING_INFO':
-            window.location.href = 'https://drive.google.com/file/d/15iB3SdawaGQ8XvVTi8UgEmkOkzPqw7sb/view';
+            window.location.href = 'https://drive.google.com/file/d/1BEXKFwUoJHjPwXIR382xhMYPro6P89xz/view';
             break;
           case 'IG':
             window.location.href = 'https://www.instagram.com/kandorfit';
